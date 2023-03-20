@@ -6,23 +6,23 @@
 
 body {
     background-color: #d9dcd6;
-}
+} /* Makes the background color of the webpage white */
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-}
+} /* Sets the backgroud color for the header to a blue, sets preferred font to Trebuchet MS and makes text white */
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
+} /* Sets the Header text to only take up as much space as it needs */
 
 .header h1 .seo {
     color: #d9dcd6;
-}
+} /* Changes the color of the SEO in horiseon to a light gray */
 
 .header nav {
     padding-top: 15px;
@@ -30,21 +30,21 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
+} /* sets the navigation links to align to the right of the page, sets the preffered font to Gill Sans */
 
 .header nav ul {
     list-style-type: none;
-}
+} /* Makes the list show up without any bullet point markers */
 
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
+} /* Makes the navigation links only take up as much space as the need so that they will be in a line in the header */
 
 a {
     color: #ffffff;
     text-decoration: none;
-}
+} /* Changes the anchor link text color to white */
 
 p {
     font-size: 16px;
@@ -57,23 +57,23 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
+} /* Sets the bacground image below the header, and gives it 25px margin between the image and the beginning of the content */
 
 .float-left {
     float: left;
     margin-right: 25px;
-}
+} /* Makes the image in the SEO section align to the left */
 
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} /* Makes the image in the online reputation section align left */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
+} /* sets the content boxes to only take the space they need so that the fit in line with the side bar of additional information */
 
 .benefits {
     margin-right: 20px;
@@ -84,55 +84,57 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
+} /* Makes a side bar that aligns to the right of the main content with a blue bacground and preferred font of Gill Sans */
 
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* sets this sections font color to white */
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* sets this sections font color to white */
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} /* sets this sections font color to white */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* centers the text in this section */
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* centers the text in this section */
 
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} /* centers the text in this section */
 
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* sets the image to be trated as a box thats centered with 10px top and bottom margins */
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* sets the image to be trated as a box thats centered with 10px top and bottom margins */
+
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} /* sets the image to be trated as a box thats centered with 10px top and bottom margins */
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -141,7 +143,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} /* sets this section to be 300px tall with a bacground color of dark blue with a preferred font of Gill Sans and a font color of white */
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -150,7 +152,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+}  /* sets this section to be 300px tall with a bacground color of dark blue with a preferred font of Gill Sans and a font color of white */
 
 .social-media-marketing {
     margin-bottom: 20px;
@@ -159,7 +161,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+}  /* sets this section to be 300px tall with a bacground color of dark blue with a preferred font of Gill Sans and a font color of white */
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -193,8 +195,8 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
+} /* sets the preferred font for the footer to Trebuchet MS and sets the text to be centered */
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
