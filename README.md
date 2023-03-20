@@ -6,8 +6,9 @@ This is a webpage containing information on search engine optimization and its b
 N/A
 ## Usage
 This webpage can be read over in its entirety for information, or the navigation links at the top can be used to travel to any specific section.
-![Horiseon webpage top](develop/assets/images/horiseon-page-top.jpg)
-![Horiseon webpage bottom](develop/assets/images/horiseon-page-bottom.jpg)
+Page found at:https://ashleybraxton.github.io/horiseon-feature-request/#social-media-marketing
+![Horiseon webpage top](horiseon-page-top.jpg)
+![Horiseon webpage bottom](horiseon-page-bottom.jpg)
 
 
 ## License
